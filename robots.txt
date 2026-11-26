@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://alem4oo0.github.io/portifolioo/sitemap.xml

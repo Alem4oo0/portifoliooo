@@ -1,0 +1,13 @@
+PORTFÓLIO PROFISSIONAL — CARLOS HENRIQUE CINTRA
+
+PACOTE PARA PUBLICAÇÃO NO GITHUB PAGES — VERSÃO PARA OPORTUNIDADES CLT
+
+Este pacote mantém os arquivos do site na raiz, compatíveis com o repositório Alem4oo0/portifolioo.
+
+1. Extraia este ZIP.
+2. Envie o conteúdo da pasta extraída para a raiz do repositório no GitHub.
+3. Substitua os arquivos com o mesmo nome e faça o commit na branch main.
+4. Em Settings > Pages, mantenha main e /(root).
+
+Não envie o ZIP fechado e não coloque os arquivos dentro de uma pasta adicional.
+Veja README.md para detalhes.
